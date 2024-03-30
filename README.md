@@ -29,9 +29,9 @@ F1 score is a machine learning evaluation metric that measures a model’s accur
 # According to my observation, I got the best results with ExtraTreesClassifier and xgboost model showing the best result**<br>
 ### Model       
 
-<strong>XGB =>    PrecisionScore = 0.930  AccScore = 0.929  f1_Score = 0.929
+<strong>XGB =>    PrecisionScore = 0.9294  AccScore = 0.9283  f1_Score = 0.9281
 
-ExtraDT  =>   PrecisionScore = 0.938  AccScore = 0.937  f1_Score = 0.937
+ExtraDT  =>   PrecisionScore = 0.9379  AccScore = 0.9373  f1_Score = 0.9373
 <br>
 <br>
-![Screenshot 2024-03-31 002608](https://github.com/waqasali143/Road_Traffic_Accident/assets/82609521/0775f6c9-cdda-40cd-8711-8555874501c4)
+![Screenshot 2024-03-31 005800](https://github.com/waqasali143/Road_Traffic_Accident/assets/82609521/e5c63bfe-52ae-43b8-adcf-abd88da13e92)
